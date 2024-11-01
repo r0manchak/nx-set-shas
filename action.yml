@@ -1,4 +1,4 @@
-name: 'Nx set SHAs'
+name: 'Nx set SHAs +skip-ci'
 description: 'Derives SHAs for base and head for use in nx affected commands, optionally setting them as env variables for the current job'
 
 inputs:
